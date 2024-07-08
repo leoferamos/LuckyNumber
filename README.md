@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto demonstra como criar um Job no Kubernetes que gera números aleatórios da sorte. O Job utiliza o contêiner `busybox` para executar um script simples que imprime dois números aleatórios no intervalo de 1 a 70.
+Este projeto demonstra como criar um Job no `Kubernetes` que gera números aleatórios da sorte. O Job utiliza o contêiner `busybox` para executar um script simples que imprime dois números aleatórios no intervalo de 1 a 70.
 
 ## Tecnologias e Ferramentas
 
